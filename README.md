@@ -12,7 +12,18 @@
  <p>Websocket</p>
 </p>
 
-📫 Hire me! [![Telegram]](https://t.me/zhpogorelov)
+
+<h2 align="center">👨🏻‍💻 I like: </h1>
+<p align="center">
+ <p>🎮 Video games</p>
+ <p>💯 Coding</p>
+ <p>🖥 Computer science</p>
+ <p>🐶 Dogs</p>
+ <p>🐱 Cats</p>
+</p>
+
+
+📫 Hire me! [Telegram](https://t.me/zhpogorelov)
 
 <!--
 
