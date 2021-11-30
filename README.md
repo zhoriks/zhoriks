@@ -22,6 +22,9 @@
  <p>🐱 Cats</p>
 </p>
 
+<h2 align="center">My dog 🐶</h2>
+![](/image/dog.gif)
+
 <h2 align="center">✉️ Feel free to pm me:</h2>
 <p align='center'>
 <a href="https://t.me/zhpogorelov" title="Telegram!">
