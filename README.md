@@ -13,7 +13,7 @@
 </p>
 
 
-<h2 align="center">👨🏻‍💻 I like: </h1>
+<h2 align="center">👨🏻‍💻 I like: </h2>
 <p align="center">
  <p>🎮 Video games</p>
  <p>💯 Coding</p>
@@ -22,19 +22,14 @@
  <p>🐱 Cats</p>
 </p>
 
+<h2 align="center">✉️ Feel free to pm me:</h2>
+<p align='center'>
+<a href="https://t.me/zhpogorelov" title="Telegram!">
+<img src="https://telegram.org/img/t_logo.svg?1" width='60px' height='60px' style='width: 40px; height: 40px;'></a>
+<a href="https://wa.me/89825091864" title="Facebook corporation product">
+<img src="https://www.freeiconspng.com/uploads/download-and-use-logo-whatsapp-png-clipart-3.png" width='60px' height='60px' style='width: 42px; height: 42px;'></a>
+<a href="mailto:zhpogorelov@yandex.ru" title="Send me email, pls!">
+<img src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png" width='60px' height='60px' style='width: 40px; height: 30px;'></a>
+</p>
+</br>
 
-📫 Hire me! [Telegram](https://t.me/zhpogorelov)
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
