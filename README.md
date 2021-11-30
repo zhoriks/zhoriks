@@ -23,7 +23,7 @@
 </p>
 
 <h2 align="center">My dog 🐶</h2>
-<img src="./image/dog.gif"></img>
+<img src="./image/dog.gif" style='height: 600px;'></img>
 
 <h2 align="center">✉️ Feel free to pm me:</h2>
 <p align='center'>
