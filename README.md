@@ -1,19 +1,6 @@
 <h1 align="center"> ✨ Hello, World! ✨</h1>
 
-<h2 align="center"> 🔧 Technology stack: </h2>
-<p align="center">
- <p>Node.js</p>
- <p>Express.js</p>
- <p>MongoDB</p>
- <p>PostgreSQL</p>
- <p>Sequelize ORM</p>
- <p>Mongoose</p>
- <p>Postman</p>
- <p>Websocket</p>
-</p>
-
-
-<h2 align="center">👨🏻‍💻 I like: </h2>
+<h2 align="center">👨🏻‍💻 I like:</h2>
 <p align="center">
  <p>🎮 Video games</p>
  <p>💯 Coding</p>
